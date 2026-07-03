@@ -107,7 +107,7 @@ class Config:
     UPLOAD_PATHS = {}
     UPSTREAM_REPO = ""
     UPSTREAM_BRANCH = "main"
-    UPDATE_PKGS = True
+    UPDATE_PKGS = False
     USER_SESSION_STRING = ""
     USER_TRANSMISSION = True
     USE_SERVICE_ACCOUNTS = False
